@@ -1,0 +1,7 @@
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.exe.config
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.exe
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.pdb
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.csprojResolveAssemblyReference.cache
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.csproj.CoreCompileInputs.cache
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.exe
+C:\Users\e-tnovaes\Desktop\CalculaSorte\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.pdb
