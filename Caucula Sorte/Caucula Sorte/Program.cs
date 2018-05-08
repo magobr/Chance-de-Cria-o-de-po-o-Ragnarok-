@@ -31,7 +31,7 @@ namespace Caucula_Sorte
                 "3 - Frasco de Ácido, Frasco de Esfera Marinha, Frasco de Fogo Grego, Frasco de Planta Carnívora.\n" +
                 "4 - Poção Azul, Analgésico, Aloe Vera, Embrião, Poções Anti-Propriedade, Poção Compacta Vermelha.\n" +
                 "5 - Poção Compacta Amarela.\n" +
-                "6 - Poção Compacta Branca, Frasco de Revestimento.\n");
+                "6 - Poção Compacta Branca, Frasco de Revestimento.\n\n");
             txt = Console.ReadLine();
             dificuldade = Convert.ToInt32(txt);
             
@@ -40,33 +40,35 @@ namespace Caucula_Sorte
             switch (dificuldade)
             {
                 case 1:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca\n");
                     dificuldade = 0.2;
                     break;
 
                 case 2:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    Console.WriteLine("Álcool\n");
                     dificuldade = 0.1;
                     break;
 
                 case 3:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    Console.WriteLine("	Frasco de Ácido, Frasco de Esfera Marinha, Frasco de Fogo Grego, Frasco de Planta Carnívora\n");
                     dificuldade = 0;
                     break;
 
                 case 4:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    Console.WriteLine("Poção Azul, Analgésico, Aloe Vera, Embrião, Poções Anti-Propriedade, Poção Compacta Vermelha\n");
                     dificuldade = -0.05;
                     break;
 
                 case 5:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    Console.WriteLine("	Poção Compacta Amarela\n");
                     dificuldade = -0.07;
                     break;
 
                 case 6:
-                    Console.WriteLine("Poção Vermelha, Poção Amarela, Poção Branca");
+                    
+                    Console.WriteLine("	Poção Compacta Branca, Frasco de Revestimento\n");
                     dificuldade = -0.1;
+                    
                     break;
 
             }
@@ -142,6 +144,8 @@ namespace Caucula_Sorte
             Console.WriteLine(IT);
 
             chance = ((PP) + (PR * 3) + (MP) + (NC * 0.2) + (DZ * 0.1) + (ST * 0.1) + (IT * 0.05) + (dificuldade));
+
+            Console.Write(dificuldade);
 
             Console.WriteLine("Sua Chance é de : {0}%", chance);
 

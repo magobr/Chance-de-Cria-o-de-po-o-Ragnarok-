@@ -12,3 +12,10 @@ C:\Users\e-tnovaes\Desktop\CalculaSorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucu
 C:\Users\e-tnovaes\Desktop\CalculaSorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.csproj.CoreCompileInputs.cache
 C:\Users\e-tnovaes\Desktop\CalculaSorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.exe
 C:\Users\e-tnovaes\Desktop\CalculaSorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.pdb
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.exe.config
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.exe
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\bin\Debug\Caucula Sorte.pdb
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.csprojResolveAssemblyReference.cache
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.csproj.CoreCompileInputs.cache
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.exe
+G:\Projetos\Calcula Sorte\Chance-de-Cria-o-de-po-o-Ragnarok-\Caucula Sorte\Caucula Sorte\obj\Debug\Caucula Sorte.pdb
