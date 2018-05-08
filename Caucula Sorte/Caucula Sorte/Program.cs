@@ -18,13 +18,11 @@ namespace Caucula_Sorte
               DZ - Destreza
               ST - Sorte
               IT - Inteligencia
-              PC- Poção
              */
 
             Console.WriteLine("\t\t***Bem Vindo a calculadora de poções***\n\n");
 
-            double dificuldade = 1, chance;
-            double PP, PR, MP, NC, DZ, ST, IT; 
+            double PP, PR, MP, NC, DZ, ST, IT, dificuldade = 1, chance; 
             string txt;
 
             Console.Write("Digite o Grupo de Poções:\n" +
@@ -127,36 +125,21 @@ namespace Caucula_Sorte
             txt = Console.ReadLine();
             DZ = Convert.ToDouble(txt);
 
-            if (DZ <= 125)
-            {
-                Console.WriteLine(DZ);
-            }
-            else
-                Console.WriteLine("Reinicie o Programa");
-
-
+            Console.WriteLine(DZ);
+          
             Console.Write("Digite Seu nivel de Sorte: ");
             txt = Console.ReadLine();
             ST = Convert.ToDouble(txt);
-
-            if (ST <= 125)
-            {
-                Console.WriteLine(ST);
-            }
-            else
-                Console.WriteLine("Reinicie o Programa");
+            
+            Console.WriteLine(ST);
+          
 
 
             Console.Write("Digite Seu nivel de Inteligência: ");
             txt = Console.ReadLine();
             IT = Convert.ToDouble(txt);
 
-            if (IT <= 125)
-            {
-                Console.WriteLine(IT);
-            }
-            else
-                Console.WriteLine("Reinicie o Programa");
+            Console.WriteLine(IT);
 
             chance = ((PP) + (PR * 3) + (MP) + (NC * 0.2) + (DZ * 0.1) + (ST * 0.1) + (IT * 0.05) + (dificuldade));
 
